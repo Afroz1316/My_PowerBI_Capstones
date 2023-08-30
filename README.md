@@ -11,8 +11,8 @@ Generated actionable insights for business strategy and decision making.
 **VGsales Data Analysis and Visualization Project:**
 
 In this project, I leveraged data analysis and visualization techniques to gain insights into video game sales trends using the VGsales dataset. Utilizing Power BI, I transformed raw data into meaningful visualizations and actionable insights.
-**Key Achievements:**
 
+**Key Achievements:**
 **Data Preparation:** Cleaned and structured the VGsales dataset, ensuring consistency in naming conventions and data types for accurate analysis.
 **Visual Exploration:** Created a series of interactive visualizations using Power BI, including line charts to showcase global sales trends over time and bar charts to illustrate top-selling games and platforms.
 **Genre and Region Analysis:** Utilized treemaps to visualize the distribution of sales across different genres and employed maps to highlight regional variations in sales.
