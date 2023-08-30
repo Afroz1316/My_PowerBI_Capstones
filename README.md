@@ -6,4 +6,4 @@ Created visually appealing dashboards with interactive visualizations.
 Conducted in-depth data exploration and provided insights to improve diabetes management.
 Analyzed and visualized African mobile data using Power BI.
 Developed interactive reports and dashboards to showcase subscriber growth, revenue analysis, and regional performance.
-Generated actionable insights for business strategy and decisionmaking.
+Generated actionable insights for business strategy and decision making.
