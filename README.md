@@ -1,5 +1,5 @@
 # My_PowerBI_Capstones
-I have done Two projects on Power BI one is for "Diabetes" and another one is "African Mobile Data".
+I have done Three projects on **Power BI** one is for **"Diabetes"** and another one is **"African Mobile Data"**.
 So, I performed all then below actions to create a "Dashboard and Visuals" to make the data redable.
 Analyzed a diabetes dataset using Power BI to identify risk factors and trends.
 Created visually appealing dashboards with interactive visualizations.
