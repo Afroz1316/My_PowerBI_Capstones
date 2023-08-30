@@ -1,5 +1,5 @@
 # My_PowerBI_Capstones
-I have done Three projects on **Power BI** one is for **"Diabetes"** and another one is **"African Mobile Data"**.
+I have done **Three** projects on **Power BI** one is for **1.)"Diabetes"** and another one is **2.)"African Mobile Data"**.
 So, I performed all then below actions to create a "Dashboard and Visuals" to make the data redable.
 Analyzed a diabetes dataset using Power BI to identify risk factors and trends.
 Created visually appealing dashboards with interactive visualizations.
@@ -8,7 +8,7 @@ Analyzed and visualized African mobile data using Power BI.
 Developed interactive reports and dashboards to showcase subscriber growth, revenue analysis, and regional performance.
 Generated actionable insights for business strategy and decision making.
 
-**VGsales Data Analysis and Visualization Project:**
+3.)**VGsales Data Analysis and Visualization Project:**
 
 In this project, I leveraged data analysis and visualization techniques to gain insights into video game sales trends using the VGsales dataset. Utilizing Power BI, I transformed raw data into meaningful visualizations and actionable insights.
 
